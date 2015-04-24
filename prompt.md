@@ -47,9 +47,3 @@ Before the next step will work, ***each and every squadron***, must have played 
 - No other squadron can know the other squadron's incantation fragment or else both squadrons will burst into flames. (The incantation is too powerful!!!)
 - If the incantations are read to Cerberus out of order, you must start over by starting with the first incantation fragment.
 
-
-
-
-
-
-
